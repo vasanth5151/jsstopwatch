@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(253, 235, 213);
+}
+
+
+.container{
+    text-align: center;
+
+}
+.Timedisplay{
+    margin-top: 18%;
+    font-size: 50px;
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+}
+.BTN{
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.btnclass{
+    background-color: rgb(197, 148, 243);
+    color: rgb(245, 245, 245);
+    padding: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    border: none;
+    margin-left: 20px;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    box-shadow: 3px 6px 3px 6px;
+}
